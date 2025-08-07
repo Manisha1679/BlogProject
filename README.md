@@ -1,6 +1,6 @@
 # 📝 BlogProject (with Appwrite Backend)
 
-A full-stack blog application with a modern frontend (HTML, CSS, JavaScript) and a secure backend powered by **Appwrite**. This project allows users to create, store, and manage blog posts via a real-time database and serverless functions.
+A full-stack blog application with a modern frontend **React** and a secure backend powered by **Appwrite**. This project allows users to create, store, and manage blog posts via a real-time database and serverless functions.
 
 
 ## 🔍 Overview
@@ -18,7 +18,7 @@ This blog platform features:
 
 | Layer       | Tech Used                   |
 |-------------|-----------------------------|
-| Frontend    | HTML, CSS, JavaScript       |
+| Frontend    | React,Tailwind  css         |
 | Backend     | Appwrite Cloud              |
 | API/Auth    | Appwrite SDK                |
 
